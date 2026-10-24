@@ -1,0 +1,8 @@
+# Local database credentials
+/db.php
+
+# Temporary connection test
+/test_connection.php
+
+# Mac folder metadata
+.DS_Store
